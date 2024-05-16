@@ -15,7 +15,7 @@ curl --location --request GET '127.0.0.1:8080/status' \
 Days left: 230
 ```
 
-В логе(консоле):
+В логе:
 ```
 2024/05/15 18:06:54 red button user detected
 ```
